@@ -5,6 +5,7 @@ In this repo:
 - Serves predictions via a Flask-based REST API
 
 ## Repo Structure:
+```bash
 Mtcars-Flask-API/
 │
 ├── app/                      # Flask app source code
@@ -20,3 +21,4 @@ Mtcars-Flask-API/
 ├── deployment/               # Instructions for local and cloud deployment
 │   └── README.md             # How to build, run locally, and deploy to GCP
 └── stephanie-lu_hw3.md          # Homework submission file with repo link
+```
