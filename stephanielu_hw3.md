@@ -3,7 +3,7 @@
 **Title:** Mtcars Flask API  
 **Author:** Stephanie Lu
 
-GitHub Repo: [https://github.com/stephanielu/mtcars-flask-api](https://github.com/stephanielu/mtcars-flask-api)
+GitHub Repo: [https://github.com/stephanielu/mtcars-flask-api](https://github.com/eshlu/mtcars-flask-api)
 
 This project builds a predictive linear regression model using the `mtcars.csv` dataset, containerizes it with Docker, and deploys it as a REST API on Google Cloud Run using Flask.
 
